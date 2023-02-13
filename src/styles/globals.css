@@ -1,0 +1,18 @@
+@import './reset.css';
+
+.btn1{background:none; background-color:#304F9F; color:#FFF !important; border-radius:10px; border:2px solid #304F9F;}
+.btn1:hover, .btn1:focus{color:#304F9F; background-color:#FFF;}
+.btn2{background:none; color:#304F9F; background-color:#FFF; border-radius:10px; border:2px solid #304F9F;}
+.btn2:hover, .btn1:focus{background-color:#304F9F; color:#FFF;}
+
+footer .top{padding:70px 0;}
+footer .top ul li{display:block;}
+footer .top ul li a{display:inline-block; margin-bottom:20px;}
+footer .bottom{padding:30px 0;}
+footer .bottom ul{float:right;}
+footer .bottom ul li{display:inline-block;}
+footer .bottom ul li a{margin-left:20px;}
+
+.home1{background:#000 url('../images/home1.jpg') no-repeat center center; background-size:cover; height:657px;}
+.home2{padding:10px 0;}
+.home3{padding:70px 0; background-color:#304F9F;}
